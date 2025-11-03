@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+</p>
+
 <h1 align="center">Software Engineering Student</h1>
 
 ---
@@ -32,7 +36,7 @@ I’ve earned certifications from renowned institutions such as **IBM**, **Amazo
 - 🚁 [**Drone Delivery System**](https://github.com/felipegiannetti/drone-delivery-system) — Drone-based delivery management system  
 - 🎲 [**n8n Random Number**](https://github.com/felipegiannetti/n8n-random-number) — Automated workflow generating random values  
 - 💻 [**TI Front-end PUC**](https://github.com/felipegiannetti/TI-Front-end-PUC) — Academic front-end project using HTML, CSS, and JS  
-- 🤖 [**Interação Robôs – Destaque 1º Período**](https://github.com/felipegiannetti/projeto-interacao-robos-destaque-primeiro-periodo) — Robotics and interaction showcase project
+- 🤖 [**Robot Interaction Project – Featured 1st Semester**](https://github.com/felipegiannetti/projeto-interacao-robos-destaque-primeiro-periodo) — Robotics and interaction showcase project
 
 ---
 
@@ -40,3 +44,20 @@ I’ve earned certifications from renowned institutions such as **IBM**, **Amazo
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiannetti&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 📫 Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-giannetti-fontenelle-095501312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:felipegiannettifontenelle@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📞 **Phone:** +55 (31) 99990-0355  
+📧 **Email:** felipegiannettifontenelle@gmail.com  
+
+---
