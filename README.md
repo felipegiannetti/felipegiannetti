@@ -38,12 +38,6 @@ I’ve earned certifications from renowned institutions such as **IBM**, **Amazo
 - 💻 [**TI Front-end PUC**](https://github.com/felipegiannetti/TI-Front-end-PUC) — Academic front-end project using HTML, CSS, and JS  
 - 🤖 [**Robot Interaction Project – Featured 1st Semester**](https://github.com/felipegiannetti/projeto-interacao-robos-destaque-primeiro-periodo) — Robotics and interaction showcase project
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiannetti&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
